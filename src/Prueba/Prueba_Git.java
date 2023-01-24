@@ -6,7 +6,7 @@ public class Prueba_Git {
 		
 		System.out.println("Hola mundo");
 		
-		System.out.println("Cambios");
+		System.out.println("Cambios") ;
 
 	}
 
